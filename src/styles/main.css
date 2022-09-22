@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  margin: 0 auto;
+}
+
+button {
+  border: 1px solid black;
+  margin: 20px;
+  padding: 10px 15px;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+button .reset {
+  margin-top: 40px;
+}
+
+.scoreboard {
+  width: 14em;
+  margin: auto;
+  border: 1px solid black;
+}
+.scoreboard h2 {
+  border-bottom: 1px solid black;
+  margin: 0;
+  padding: 10px;
+}
+.scoreboard table {
+  margin: 10px auto;
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+.scoreboard td {
+  font-size: 3em;
+  padding: 0 20px;
+}
+
+#result {
+  margin: 40px 0;
+}
+
+.hidden {
+  visibility: hidden;
+}/*# sourceMappingURL=main.css.map */
